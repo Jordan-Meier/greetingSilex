@@ -9,7 +9,7 @@
         <html>
         <head>
             <title>Hello Friend!</title>
-            <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+            <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
         </head>
         <body>
             <div class='container'>
@@ -21,6 +21,7 @@
                 <p>Looking forward to seeing you soon. I'll bring you back a souvenir. </p>
                 <p>Cheers,</p>
                 <p>Travel Enthusiast Jane</p>
+                <a href='/goodbye'>Goodbye!</a>
             </div>
         </body>
         </html>"
